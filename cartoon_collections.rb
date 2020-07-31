@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls(array)
   calls = []
-if calls.length > 4 ? true : false 
+if array.length > 4 ? true : false 
 end
 end
 
