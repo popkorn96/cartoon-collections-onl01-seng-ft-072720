@@ -1,6 +1,7 @@
-def roll_call_dwarves(names)
+def roll_call_dwarves(dwarf_names)
   count = 0 
-  while count < names.length 
+  
+  while count < dwarf_names.length 
     count += 1
   end
 end
