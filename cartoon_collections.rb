@@ -2,6 +2,7 @@ def roll_call_dwarves(names)
   count = 0 
   while count < names.length 
   names.collect do |names|
+    count += 1
 end
 
 def summon_captain_planet# code an argument here
